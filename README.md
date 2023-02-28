@@ -30,6 +30,10 @@ $ pip install -r requirements.txt
 ```
 - Use Skin-Cancer-Data-Preparation.ipynb to separate the image for each category using the ground truth csv.
 
+- Use Skin-Cancer-Data-Train-Test-Split.ipynb to make the train and test folder for each category. we have only used 100 test images for each category.
+
+• Please do ⭐ the repository, if it helped you in anyway.
+
 
 
 
