@@ -1,0 +1,8 @@
+venv/
+venv
+env
+.ipynb_checkpoints
+skin_cancer_dataset/
+ATTRIBUTION.txt
+ISIC_2019_Training_GroundTruth.csv
+ISIC_2019_Training_Input.zip
