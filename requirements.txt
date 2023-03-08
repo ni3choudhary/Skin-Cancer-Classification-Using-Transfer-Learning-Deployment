@@ -1,5 +1,8 @@
 numpy==1.18.5
+pandas
+matplotlib
 opencv-python==4.4.0.46
 pillow==7.2.0
+scikit-learn
 tensorflow==2.5.0
 flask==2.1.3
